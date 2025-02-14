@@ -20,11 +20,6 @@
 
 <p align="left">
 
-  <a href="https://discordapp.com/users/582969289091317761" alt="Discord">
-  <img width=32 src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png" /></a>
-  
-  <a href="https://www.instagram.com/sslicas/" alt="Instagram">
-  <img width=32 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a>
 </p>
 <hr>
 <div align="center">
