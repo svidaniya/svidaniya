@@ -2,7 +2,6 @@
 
 <p align="left"> 
   I'm Samuel L., 19 years old, and I enjoy programming. <strong>FullStack</strong> Developer.<br>
-  Currently studying web development at <a href="https://portal.ifrn.edu.br/"><strong>IFRN</strong></a>.
 </p>
 
 <p align="left">
